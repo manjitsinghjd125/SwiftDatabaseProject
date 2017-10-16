@@ -8,6 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		2FF744751F93EEDC009115D0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744741F93EEDC009115D0 /* main.swift */; };
+		2FF7447C1F93F3D0009115D0 /* patients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7447B1F93F3D0009115D0 /* patients.swift */; };
+		2FF7447E1F93F3E3009115D0 /* doctors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7447D1F93F3E3009115D0 /* doctors.swift */; };
+		2FF744801F93F3F6009115D0 /* patientin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7447F1F93F3F6009115D0 /* patientin.swift */; };
+		2FF744821F93F447009115D0 /* patientout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744811F93F447009115D0 /* patientout.swift */; };
+		2FF744841F93F4E9009115D0 /* department.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744831F93F4E9009115D0 /* department.swift */; };
+		2FF744861F93F55F009115D0 /* bill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744851F93F55F009115D0 /* bill.swift */; };
+		2FF744881F93F58C009115D0 /* facuity_depart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744871F93F58C009115D0 /* facuity_depart.swift */; };
+		2FF7448A1F93F5CD009115D0 /* Disese.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF744891F93F5CD009115D0 /* Disese.swift */; };
+		2FF7448C1F93F5E3009115D0 /* room.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7448B1F93F5E3009115D0 /* room.swift */; };
+		2FF7448E1F93F5FE009115D0 /* evaluation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7448D1F93F5FE009115D0 /* evaluation.swift */; };
+		2FF744901F93F663009115D0 /* facuity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF7448F1F93F663009115D0 /* facuity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +36,17 @@
 /* Begin PBXFileReference section */
 		2FF744711F93EEDC009115D0 /* SwiftDatabaseProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftDatabaseProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF744741F93EEDC009115D0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2FF7447B1F93F3D0009115D0 /* patients.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = patients.swift; sourceTree = "<group>"; };
+		2FF7447D1F93F3E3009115D0 /* doctors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = doctors.swift; sourceTree = "<group>"; };
+		2FF7447F1F93F3F6009115D0 /* patientin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = patientin.swift; sourceTree = "<group>"; };
+		2FF744811F93F447009115D0 /* patientout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = patientout.swift; sourceTree = "<group>"; };
+		2FF744831F93F4E9009115D0 /* department.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = department.swift; sourceTree = "<group>"; };
+		2FF744851F93F55F009115D0 /* bill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bill.swift; sourceTree = "<group>"; };
+		2FF744871F93F58C009115D0 /* facuity_depart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = facuity_depart.swift; sourceTree = "<group>"; };
+		2FF744891F93F5CD009115D0 /* Disese.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Disese.swift; sourceTree = "<group>"; };
+		2FF7448B1F93F5E3009115D0 /* room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = room.swift; sourceTree = "<group>"; };
+		2FF7448D1F93F5FE009115D0 /* evaluation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = evaluation.swift; sourceTree = "<group>"; };
+		2FF7448F1F93F663009115D0 /* facuity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = facuity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +80,17 @@
 			isa = PBXGroup;
 			children = (
 				2FF744741F93EEDC009115D0 /* main.swift */,
+				2FF7447B1F93F3D0009115D0 /* patients.swift */,
+				2FF7447D1F93F3E3009115D0 /* doctors.swift */,
+				2FF7447F1F93F3F6009115D0 /* patientin.swift */,
+				2FF744811F93F447009115D0 /* patientout.swift */,
+				2FF744831F93F4E9009115D0 /* department.swift */,
+				2FF744851F93F55F009115D0 /* bill.swift */,
+				2FF744871F93F58C009115D0 /* facuity_depart.swift */,
+				2FF744891F93F5CD009115D0 /* Disese.swift */,
+				2FF7448B1F93F5E3009115D0 /* room.swift */,
+				2FF7448D1F93F5FE009115D0 /* evaluation.swift */,
+				2FF7448F1F93F663009115D0 /* facuity.swift */,
 			);
 			path = SwiftDatabaseProject;
 			sourceTree = "<group>";
@@ -120,7 +153,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FF7448C1F93F5E3009115D0 /* room.swift in Sources */,
 				2FF744751F93EEDC009115D0 /* main.swift in Sources */,
+				2FF744841F93F4E9009115D0 /* department.swift in Sources */,
+				2FF7448E1F93F5FE009115D0 /* evaluation.swift in Sources */,
+				2FF744861F93F55F009115D0 /* bill.swift in Sources */,
+				2FF744881F93F58C009115D0 /* facuity_depart.swift in Sources */,
+				2FF7448A1F93F5CD009115D0 /* Disese.swift in Sources */,
+				2FF744821F93F447009115D0 /* patientout.swift in Sources */,
+				2FF7447C1F93F3D0009115D0 /* patients.swift in Sources */,
+				2FF744901F93F663009115D0 /* facuity.swift in Sources */,
+				2FF744801F93F3F6009115D0 /* patientin.swift in Sources */,
+				2FF7447E1F93F3E3009115D0 /* doctors.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +212,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INSTALL_OWNER = Manjit;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -211,6 +256,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				INSTALL_OWNER = Manjit;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
@@ -252,6 +298,7 @@
 				2FF7447A1F93EEDC009115D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
